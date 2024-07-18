@@ -214,7 +214,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
- * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
+ * [Wifi Jammer](https://github.com/DarkSyntax7/Wifi-Jammer) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
  * [Scapy](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
